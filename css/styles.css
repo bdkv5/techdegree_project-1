@@ -105,6 +105,10 @@ h1 {
   font-style: italic;
 }
 
+.tagss {
+  font-style: italic;
+}
+
 .citation:before {
   content: ", ";
   font-style: normal;
